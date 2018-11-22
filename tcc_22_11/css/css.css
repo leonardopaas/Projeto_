@@ -1,0 +1,346 @@
+body{
+	background-color: #1b1c1d;
+}
+
+.hidden.menu {
+	display: none;
+}
+.back{
+	background-image: url("../fotos/back.jpg");
+}
+
+.background{
+	background-color: #000000;
+}
+
+.masthead.segment {
+	min-height: 700px;
+	padding: 1em 0em;
+}
+.masthead .logo.item img {
+	margin-right: 1em;
+}
+.masthead .ui.menu .ui.button {
+	margin-left: 0.5em;
+}
+.masthead h1.ui.header {
+	margin-top: 3em;
+	margin-bottom: 0em;
+	font-size: 4em;
+	font-weight: normal;
+}
+.masthead h2 {
+	font-size: 1.7em;
+	font-weight: normal;
+}
+
+.ui.vertical.stripe {
+	padding: 8em 0em;
+}
+.ui.vertical.stripe h3 {
+	font-size: 2em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+	margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+	clear: both;
+}
+.ui.vertical.stripe p {
+	font-size: 1.33em;
+}
+.ui.vertical.stripe .horizontal.divider {
+	margin: 3em 0em;
+}
+
+.quote.stripe.segment {
+	padding: 0em;
+}
+.quote.stripe.segment .grid .column {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.footer.segment {
+	padding: 5em 0em;
+}
+
+.secondary.pointing.menu .toc.item {
+	display: none;
+}
+
+@media only screen and (max-width: 700px) {
+	.ui.fixed.menu {
+		display: none !important;
+	}
+	.secondary.pointing.menu .item,
+	.secondary.pointing.menu .menu {
+		display: none;
+	}
+	.secondary.pointing.menu .toc.item {
+		display: block;
+	}
+	.masthead.segment {
+		min-height: 350px;
+	}
+	.masthead h1.ui.header {
+		font-size: 2em;
+		margin-top: 1.5em;
+	}
+	.masthead h2 {
+		margin-top: 0.5em;
+		font-size: 1.5em;
+	}
+
+	    body > .grid {
+      height: 100%;
+    }
+    .image {
+      margin-top: -100px;
+    }
+    .column {
+      max-width: 450px;
+    }
+}
+
+#jogos{
+	width: 48%;
+	float: right;
+}
+
+#text{
+	color:#FFFFFF;
+	font-size: 30px;
+}
+
+#text1{
+	color:#FFFFFF;
+	font-size: 23px;
+}
+.text2{
+	color: #FFFFFF;
+	font-variant: small-caps;
+	font-size: 40px;
+}
+
+.text3{
+	margin-left: 10%;
+	margin-right: 10%;	
+	font-variant: small-caps;
+	font-size: 20px;
+	color:#FFFFFF;
+	width: 80%;
+	float: right;
+	text-align: justify;
+}
+
+.text4{
+	margin-right: 10%;	
+	font-variant: small-caps;
+	font-size: 20px;
+	color:#FFFFFF;
+	width: 190%;
+	float: right;
+	text-align: justify;
+	margin-top: -1%;	
+}
+
+.espaco{
+	margin-bottom: 15%;
+}
+
+.rodape{
+	text-align:center;
+	font-variant: small-caps;
+	font-size:18px;
+	color:#000000;
+	float: left;
+	float: center;
+	margin-top:10%;
+}
+
+.fotos{
+	margin-right: 0.5%;
+	margin-left: 2.5%;
+	margin-bottom: 1%;
+}
+
+.jogos_pb{
+	font-size: 28px;
+	margin-top: 5%;
+	margin-left: 52.5%;
+	color:#FFFFFF;
+	font-variant: small-caps;
+}
+
+.jogos{
+	font-size: 30px;
+	margin-top: 5%;
+	margin-left: 50%;
+	color:#FFFFFF;
+	font-variant: small-caps;
+}
+
+.imagem{
+	width: 50%;
+	height: 70%;
+	margin-left: 2%;
+}
+
+.botao{
+	float: left;
+}
+
+.resenha{
+	width: 202%;
+}
+
+.cadResenha{
+	float: center;
+	font-variant: small-caps;
+	margin-left: 3%;
+	margin-bottom: 3%;
+	font-size: 35px;
+
+}
+
+.cadResenha1{
+	float: left;
+	font-variant: small-caps;
+	margin-left: 4%;
+	font-size: 25px;
+	margin-bottom:  3.5%;
+	width: 15%;
+}
+
+
+.margem{
+	width: 65%;
+	margin-left:17.2%;
+	margin-right: 17.2%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	color:#FFFFFF;
+	border: solid #FFFFFF;
+	margin: center;
+	height: 50%;
+}
+.margem1{
+	width: 70%;
+	margin-left:17.2%;
+	margin-right: 17.2%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	color:#FFFFFF;
+	border: solid #FFFFFF;
+	margin: center;
+	height: 50%;
+}
+
+.margem2{
+	width: 70%;
+	margin-left:16%;
+	margin-right: 17.2%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	margin: center;
+	height: 50%;
+
+}
+.cadUsuario{
+	float: left;
+	margin-left: 4%;
+	font-size: 25px;
+	margin-bottom:  3.5%;
+	width: 6%;
+	margin-top: 1%;
+}
+
+.login{
+	margin-top: 40%; 	
+	color:#FFFFFF;
+}
+
+#imagemLogin{
+	margin-top: 40%;
+}
+
+.div{
+	margin-left: 38%;
+	margin-right:40%;
+}
+
+#minhasResenhas{
+	margin-top: 7%;
+	font-size: 50px;
+}
+
+.minhasResenhas{
+	margin-left: 30%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.separar1{
+	margin-bottom: 5%;
+	margin-top: -2%;
+
+}
+
+.a{
+	width: 100%;
+	height: 585px;
+
+}
+
+.b{
+	width: 100%;
+	margin-top: 5%;
+}
+
+#item{
+	font-size: 18px;
+}
+
+#item1{
+	margin-right: 50px;
+	font-size: 15px;
+}
+
+.comentario{
+	font-color:#FFFFFF;
+	font-size: 18px;
+}
+
+.nome{
+	color: #FFFFFF;
+}
+
+#tamCadastro{
+	font-size: 30px;
+	font-color: #FFFFFF;
+}
+
+
+
+span{
+	font-color: #FFFFFF;
+}
+.ri{
+	float: right;
+	margin-left: 70%;
+}
+
+.esquerda{
+	float: center!important;
+	margin-left: 4%;
+}
+
+.branco {
+	color: #ffffff !important;
+}
+
+.denuncia{
+float: right;
+}

@@ -1,0 +1,122 @@
+[
+	{
+		"id":1,
+		"titulo":"Dota 2",
+		"resenha":"Dota 2, o famoso MOBA desenvolvido pela Valve e baseado na modifica\u00E7\u00E3o de warcraft 3, \u00E9 um jogo em eterna muta\u00E7\u00E3o. Seja pela adi\u00E7\u00E3o de novos her\u00F3is, um buff que altera drasticamente o game ou at\u00E9 mesmo eventos especiais, sempre h\u00E1 uma atualiza\u00E7\u00E3o in\u00E9dita para se explorar. Mesmo com tantas altera\u00E7\u00F5es, o game continua t\u00E3o divertido quanto em seu lan\u00E7amento. Confira o review completo. A narrativa nunca foi o foco de Dota 2 e at\u00E9 hoje isso permanece verdadeiro. A trama consiste em duas fac\u00E7\u00F5es (os Iluminados e os Temidos) em eterna guerra para destruir o anci\u00E3o do time oposto. At\u00E9 mesmo essa premissa b\u00E1sica n\u00E3o \u00E9 explorada no jogo, que deixa o gameplay falar por si s\u00F3. Aqueles que buscam mais informa\u00E7\u00F5es devem recorrer \u00E0s descri\u00E7\u00F5es de cada personagem, assim como wikis do jogo para entender melhor a hist\u00F3ria, o que n\u00E3o \u00E9 ideal.",
+		"autor":"Aline Soster",
+		"notaAutor":"8,5",
+		"foto":"dota1.jpg",
+		"like": 1,
+		"dislike": 0
+	},
+	{
+		"id":2,
+		"titulo":"Arena Of Valor",
+		"resenha":"Arena of Valor, o MOBA extremamente competitivo da Tencent Games, est\u00E1 dispon\u00EDvel de forma gratuita para dispositivos iOS e Android no Brasil. Arena of Valor conta com partidas de 10 a 15 minutos recheadas de a\u00E7\u00E3o fren\u00E9tica em grupos de 5\u00D75 jogadores, apresentando uma lista de campe\u00F5es \u00E9picos, cada um com estilo de jogo e habilidades \u00FAnicas. Como um dos primeiros jogos lan\u00E7ados pela Tencent na Am\u00E9rica Latina, o aguardado game traz uma vis\u00E3o acess\u00EDvel e com design primoroso do estilo estrat\u00E9gico de jogabilidade MOBA. O jogo est\u00E1 dispon\u00EDvel em Portugu\u00EAs do Brasil e Espanhol da Am\u00E9rica Latina. Com mais de 200 milh\u00F5es de usu\u00E1rios na China, Honor of Kings foi o jogo mobile da Tencent que transformou o MOBA em um fen\u00F4meno cultural. Agora, tr\u00EAs quartos da gera\u00E7\u00E3o mais jovem de chineses jogam Arena of Valor, e sua paix\u00E3o por sua comunidade \u00E9 incompar\u00E1vel a qualquer outro jogo do g\u00EAnero. A Tencent est\u00E1 trazendo a emo\u00E7\u00E3o e o apelo dos jogos MOBA AAA para os jogadores do Brasil e da Am\u00E9rica Latina com Arena of Valor.",
+		"autor":"Aline Soster",
+		"notaAutor":"8,6",
+		"foto":"arena2.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":3,
+		"titulo":"Gigantic",
+		"resenha":"Gigantic traz a proposta de um MOBA onde o alvo primordial a ser atacado \u00E9 um colossal monstro chamado de Guardi\u00E3o, mas ele n\u00E3o ficar\u00E1 parado, ir\u00E1 revidar atacado com toda sua for\u00E7a e sozinho nenhum jogador \u00E9 capaz de par\u00E1-lo. Para isso haver\u00E1 um time de cinco jogadores que dever\u00E3o proteger seu guardi\u00E3o e derrotar o guardi\u00E3o inimigo em uma batalha tit\u00E2nica. As op\u00E7\u00F5es de personagens s\u00E3o limitadas se comparadas com outros MOBAs, mas cada uma delas possuem grandes diferen\u00E7as entre si, n\u00E3o tendo assim personagens com ataques semelhantes. Dentre eles h\u00E1 personagens de ataques r\u00E1pidos, furtivos, portadores de armas de fogo, tankers, magos, atiradores de longo alcance e personagens de ataque f\u00EDsicos de curto alcance. Os Guardi\u00F5es tamb\u00E9m s\u00E3o diferentes e possuem modos de ataques, pontos fracos e habilidades diferentes. Eles ir\u00E3o interagir e ajudar na batalha, esmagando advers\u00E1rios em seu caminho. O jogador deve procurar o ponto fraco no guardi\u00E3o inimigo e atac\u00E1-lo para vencer a equipe.",
+		"autor":"Gabrielle Dannebrock",
+		"notaAutor":"8,9",
+		"foto":"gigantic.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":4,
+		"titulo":"Heroes Of The Storm",
+		"resenha":"Lan\u00E7ado em 2015, o ca\u00E7ula dos melhores jogos MOBA foi lan\u00E7ado pela Blizzard. Ele surgiu tentando mudar um pouco o conceito fechado dos MOBAs, que sempre seguem uma orienta\u00E7\u00E3o tradicional dos mapas e dos personagens. Em HotS existem 10 mapas diferentes para travar as batalhas, e cada mapa tem objetivos e mec\u00E2nicas diferentes. Uma boa ideia da Blizzard foi colocar como her\u00F3is do jogo os personagens j\u00E1 consagrados, vindos de outras franquias da desenvolvedora. Em HotS \u00E9 poss\u00EDvel jogar com personagens de Diablo, Warcraft, StarCraft e Overwatch. Jogadores iniciantes conseguem aprender rapidamente as funcionalidades do jogo utilizando os tutoriais e os modos de teste para aprender as habilidades dos her\u00F3is.",
+		"autor":"Gabrielle Dannebrock",
+		"notaAutor":"9,1",
+		"foto":"heroes.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":5,
+		"titulo":"Infinite Crisis",
+		"resenha":"Infinite Crisis \u00E9 um MOBA baseado nos multiversos da DC Comics, onde os mesmos multiversos est\u00E3o misteriosamente, e lentamente, se colidindo em algo chamado 'sangria'. Devido a isso, a introdu\u00E7\u00E3o de v\u00E1rios personagens e suas diferentes vers\u00F5es do multiverso d\u00E3o o ponto de igni\u00E7\u00E3o ao jogo e sua trama. Inicialmente, o jogo apresenta um padr\u00E3o, tendo uma preocupa\u00E7\u00E3o em ensinar novos e at\u00E9 mesmos experientes jogadores atrav\u00E9s dos tutoriais explicando os conceitos b\u00E1sicos de um MOBA, que s\u00E3o aplicados de formas ligeiramente diferentes dos jogos do mesmo g\u00EAnero neste jogo. O jogo tamb\u00E9m se preocupa em lhe dar uma base p\u00F3s-tutorial, onde voc\u00EA libera alguns personagens ap\u00F3s passar pelas as 5 etapas de tutorial existente para come\u00E7ar a jogar as partidas players vs. player, al\u00E9m de contar com a rota\u00E7\u00E3o semanal gr\u00E1tis de personagens. Entre os personagens liberados temos: Gaslight Batman, Lanterna Verde, Mulher Maravilha, Apocalipse e Arlequina.",
+		"autor":"Gabrielle Dannebrock",
+		"notaAutor":"8,7",
+		"foto":"infinite.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":6,
+		"titulo":"League Of Legends",
+		"resenha":"LoL (League of Legends) \u00E9 um jogo online competitivo que mistura a velocidade e a intensidade de um RTS com elementos de RPG. Duas equipes de poderosos campe\u00F5es, cada um com design e estilo \u00FAnico, lutam em diversos campos de batalha e modos de jogo. Com um elenco de campe\u00F5es em constante expans\u00E3o, atualiza\u00E7\u00F5es frequentes e uma cena competitiva exuberante, LoL oferece divers\u00E3o incessante para jogadores de todos os n\u00EDveis de habilidade. O LoL conta com 118 personagens, cada um com seus pr\u00F3prios estilos, habilidades e hist\u00F3rias, cada um desses com suas particularidades, desde o modo de andar at\u00E9 em sua fala. Eles s\u00E3o divididos em 5 classes dentro do jogo. Assassino, Lutador, Mago, Suporte, Tanque e Francoatirador. Por\u00E9m, os jogadores criaram outras classes para agilizar a escolha de um bom time dentro do jogo, que s\u00E3o eles ADC, Top, Mid, Suporte e Jungle.",
+		"autor":"Leonardo Pinheiro",
+		"notaAutor":"10,0",
+		"foto":"lol.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":7,
+		"titulo":"Paladins",
+		"resenha":"Paladins \u00E9 um shotter em primeira pessoa desenvolvido pelos est\u00FAdios Hi-Rez, O jogo usa uma tem\u00E1tica fant\u00E1stica no qual os campe\u00F5es com que jogamos s\u00E3o paladinos defensores do reino. O jogo \u00E9 gratis para jogar, toda semana temos alguns campe\u00F5es abertos para jogar, e com o dinheiro que conseguimos ao vencer partidas podemos habilitar campe\u00F5es permanentemente para us\u00E1-los a qualquer tempo. Os campe\u00F5es s\u00E3o divididos em 4 tipos: Dano, Flanco, Suporte e Tanquer. O jogo \u00E9 gratuito para jogar e por isso precisa ganhar dinheiro de alguma forma, no jogo \u00E9 poss\u00EDvel comprar cristais com dinheiro real, e utilizando eles conseguimos comprar campe\u00F5es e v\u00E1rios itens cosm\u00E9ticos.",
+		"autor":"Leonardo Pinheiro",
+		"notaAutor":"8,0",
+		"foto":"paladins.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":8,
+		"titulo":"Paragon",
+		"resenha":"Paragon \u00E9 um MOBA jogado em terceira pessoa. Contando atualmente com apenas um modo de jogo, o mapa apresenta tr\u00EAs rotas: esquerda, meio e direita. O jogador ter\u00E1 que defender uma delas ou se aventurar pela selva, onde poder\u00E1 criar emboscadas para o advers\u00E1rio. O objetivo do game \u00E9 destruir o n\u00FAcleo que funciona como o cora\u00E7\u00E3o do time. Para isso, ele e sua equipe dever\u00E3o destruir tropas inimigas, lutar contra her\u00F3is advers\u00E1rios e destruir as torres para chegar ao n\u00FAcleo, ao passo que evolui seu personagem, melhora suas habilidades e compra itens.  Uma das caracter\u00EDsticas de Paragon s\u00E3o seus gr\u00E1ficos. Embora o jogo esteja em acesso antecipado, \u00E9 not\u00E1vel o poder de processamento gr\u00E1fico da Unreal Engine 4. Apesar de ainda n\u00E3o estarem conclu\u00EDdos, os her\u00F3is e cen\u00E1rios j\u00E1 est\u00E3o bem lapidados, com texturas, efeitos de part\u00EDculas e ilumina\u00E7\u00E3o dignas de um jogo AAA. Infelizmente, ainda n\u00E3o \u00E9 poss\u00EDvel conferir alguns personagens do game, como as tropas da selva, que atualmente s\u00E3o mostrados em modelos n\u00E3o-renderizados, com uma grande frase escrita abaixo: 'Alpha Content'.",
+		"autor":"Bruno Brieman",
+		"notaAutor":"7,5",
+		"foto":"paragon.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":9,
+		"titulo":"PlayerUnknown’s Battlegrounds",
+		"resenha":"J\u00E1 assistiu ou leu 'Jogos vorazes'? Ent\u00E3o \u00E9 meio caminho andado. 'Battlegrounds' \u00E9 um game de tiro online e multiplayer em que at\u00E9 100 jogadores saltam de p\u00E1ra-quedas numa ilha enorme, de 64 km\u00B2.  Todos come\u00E7am o jogo apenas com as roupas do corpo \u2013 \u00E0s vezes nem isso, j\u00E1 que elas ocupam espa\u00E7o no invent\u00E1rio \u2013 e devem explorar pr\u00E9dios e outras constru\u00E7\u00F5es para encontrar armas, equipamentos de defesa e itens de cura. O objetivo \u00E9 um s\u00F3: se preparar para o pior e lutar at\u00E9 a morte contra os outros que est\u00E3o na mesma situa\u00E7\u00E3o que voc\u00EA. Afinal, vence o \u00FAltimo a sobreviver.",
+		"autor":"Luiza Farias",
+		"notaAutor":"10,0",
+		"foto":"pb.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":10,
+		"titulo":"Smite",
+		"resenha":"Imagine deuses de todas as mitologias juntos num mesmo jogo lutando uns contra os outros. Imagine Loki e Thor no mesmo time lutamos juntos por um mesmo prop\u00F3sito. Ou, melhor ainda, imagine Zeus, Serqet, Baco, Kali, Ao Kang e Fenrir juntos num mesmo time lutando pela vit\u00F3ria. O que \u00E9 isso? Isso \u00E9 Smite, um jogo que une mitologias grega, romana, eg\u00EDpcia, maia, chinesa, n\u00F3rdica, hindu e que conseguiu acabar com minha produtividade.\u00C9 um g\u00EAnero para jogos que misturam estrat\u00E9gia em tempo real e RPG. Nos jogos desse estilo, voc\u00EA controla uma unidade em batalha contra outros jogadores. As partidas acontecem num mesmo mapa e \u00E9 disputado por dois times. O objetivo \u00E9 destruir a base da equipe rival. Para isso, \u00E9 preciso evoluir seu her\u00F3i, melhorar seus equipamentos e derrubar as defesas do outro time, em ondas consecutivas de ataques que exigem racioc\u00EDnio r\u00E1pido e estrat\u00E9gias de equipe. S\u00F3 que a grande diferen\u00E7a \u00E9 que, nesse jogo, voc\u00EA joga vendo o personagem em terceira.",
+		"autor":"Gabrielle Dannebrock",
+		"notaAutor":"8,2",
+		"foto":"smite.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":11,
+		"titulo":"Strife",
+		"resenha":"Strife \u00E9 um MOBA com a\u00E7\u00E3o 3D, com um elenco colorido de personagens e gr\u00E1ficos de cartoony brilhantes. O jogo possui um sistema de crafting exclusivo e v\u00E1rios outros recursos originais que o diferenciam de outros MOBAs. As caracter\u00EDsticas mais proeminentes do jogo incluem seu sistema de animais de estima\u00E7\u00E3o e crafting. Al\u00E9m de simplesmente selecionar um her\u00F3i, os jogadores tamb\u00E9m podem escolher entre mais de uma d\u00FAzia de animais de estima\u00E7\u00E3o para acompanh\u00E1-los na batalha. Cada animal tem 3 habilidades distintas que melhoram o her\u00F3i do jogador. Qualquer animal de estima\u00E7\u00E3o pode ser acompanhado de qualquer campe\u00E3o. O sistema de cria\u00E7\u00E3o de itens do jogo permite aos jogadores personalizar os itens dispon\u00EDveis na loja com as estat\u00EDsticas que eles desejam.",
+		"autor":"Elisa Fusinato",
+		"notaAutor":"8,3",
+		"foto":"strife.jpg",
+		"like": 1,
+		"dislike":0
+	},
+	{
+		"id":12,
+		"titulo":"Vainglory",
+		"resenha":"O Vainglory \u00E9 um jogo multiplayer de arena de batalha online (MOBA) semelhante aos populares MOBAs, como League of Legends e Dota 2, mas projetado para smartphones e tablets, o jogo \u00E9 uma vers\u00E3o do g\u00EAnero MOBA em que duas equipes opostas de tr\u00EAs ou cinco jogadores lutam para destruir a base inimiga, controlando o caminho entre as bases, que \u00E9 alinhada por torres e guardada por criaturas inimigas controladas por IA. Fora do caminho, os jogadores lutam pelos pontos de controle que fornecem recursos.Em Vainglory , as equipes t\u00EAm cinco jogadores, cada um controlando um avatar , conhecido como \"her\u00F3i\", de seu pr\u00F3prio dispositivo. Personagens mais fracos controlados por computador , chamados \"minions\", aparecem nas bases da equipe e seguem as pistas para a base do time advers\u00E1rio, lutando contra inimigos e torres no caminho. O revestimento das pistas s\u00E3o torres de torre que repelem o fluxo de lacaios e her\u00F3is inimigos. O objetivo do jogador \u00E9 destruir as torres inimigas e, finalmente, o 'cristal V\u00E3o' na base do time inimigo.",
+		"autor":"Leonardo Pinheiro",
+		"notaAutor":"9,5",
+		"foto":"vainglory.jpg",
+		"like": 1,
+		"dislike":0
+	}
+]
